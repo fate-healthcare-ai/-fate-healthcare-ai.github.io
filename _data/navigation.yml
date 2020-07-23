@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Tutorials"
-    url: /tutorial/  
+  - title: "Talks"
+    url: /talks/  
     
   - title: "Fairness"
     url: /fairness/
         
-  - title: "explainability"
+  - title: "Explainability"
     url: /explain/
     
   - title: "Ethics"
