@@ -6,11 +6,11 @@ main:
   - title: "Tutorials"
     url: /tutorial/  
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Fairness"
+    url: /fairness/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "explainability"
+    url: /explain/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Ethics"
+    url: /ethics/
