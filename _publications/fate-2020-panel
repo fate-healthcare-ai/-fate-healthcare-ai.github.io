@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/fate-2020-panel/
 excerpt: 'The panel aims to elucidate how different national govenmental programs are implementing accountability of machine learning systems in healthcare and how accountability is operationlized in different cultural settings in legislation, policy and deployment. We have representatives from three different govenments, UAE, Singapore and Maldives who will discuss what accountability of AI and machine learning means in their contexts and use cases. We hope to have a fruitful conversation around FAT ML as it is operationalized ccross cultures, national boundries and legislative constraints.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'ACM Conference on Fairness, Accountability, and Transparenc'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3351095.3375690'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
