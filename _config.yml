@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fairness, Accountability, Transparency and Ethics in Healthcare AI"
+title                    : "FATE in Healthcare AI"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "FATE Healthcare AI"
   avatar           : "profile.png"
   bio              : "Fairness, Accountability, Transparency and Ethics in Healthcare AI"
   location         : "Location"
